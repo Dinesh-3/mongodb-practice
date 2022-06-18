@@ -1,0 +1,22 @@
+{
+  "name": "mongodb-practice",
+  "version": "1.0.0",
+  "description": "MongoDB with Mongoose NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dinesh-3/mongodb-practice.git"
+  },
+  "author": "Dinesh Iyyandurai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dinesh-3/mongodb-practice/issues"
+  },
+  "homepage": "https://github.com/Dinesh-3/mongodb-practice#readme",
+  "dependencies": {
+    "mongoose": "^6.3.0"
+  }
+}
